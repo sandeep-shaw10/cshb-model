@@ -4,23 +4,28 @@ Network Security Project: Crypto-Steganography Hybrid Blockchain Model
 
 ## Set-Up
 
+Clone Project
+```bash
+git clone https://github.com/sandeep-shaw10/cshb-model.git
+```
+
 Create Virtual Environment
-```py
+```bash
 python -m venv venv-cshb
 ```
 
 Activate Virtual Environment
-```py
+```bash
 source venv-cshb/Scripts/activate
 ```
 
 Install Dependency
-```py
+```bash
 pip install -r requirements.txt
 ```
 
 Run Jupyter Notebook
-```py
+```bash
 jupyter notebook
 ```
 
