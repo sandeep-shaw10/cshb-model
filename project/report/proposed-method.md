@@ -29,3 +29,7 @@ While storing the encrypted message in a database, the traditional database will
 The chat data can be retrieved in bulk from the server to the client. As the data was stored in encrypted format therefore it is still secure and at the client side the chat will be decrypted. The symmetric key can be obtained using the constant secret key and other attributes of the message which is passed to the AES and the plain text is obtained from the cipher text and is rendered on the screen.
 
 In this manner, the data is encrypted and decrypted on the client side only therefore it is end-to-end encrypted as the encrypted message is stored on the remote database with a hybrid blockchain functionality to authenticate and check tampering in data if it exists. 
+
+![1](../img/1.png)
+
+![2](../img/2.png)

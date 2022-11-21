@@ -2,9 +2,9 @@
 
 ## 📋 Pages Required = 50
 
-## 🟢 Pages Completed = 12-14
+## 🟢 Pages Completed = 14-16
 
-## 🔴 Pages Left = 36-38
+## 🔴 Pages Left = 34-36
 
 - - -
 
@@ -13,13 +13,12 @@
 | Abstract | 1-2 |
 | Introduction | 4 |
 | Literature Survey | 4 |
-| Proposed Method | 2 |
+| Proposed Method | 4 |
 | Reference | 1-2 |
 
 - - -
 
 ### Todo
-- Add 2 pages on Proposed Model for `Workflow Diagram`
 - Methodlogy: 
 - Problem on AES-128 and AES-256
 - Traditional AES Algorithm (4*4 => 128, 192, 256)
