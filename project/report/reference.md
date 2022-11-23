@@ -11,3 +11,4 @@
 8. “AES 512: 512-bit Advanced Encryption Standard Algorithm Design and Evaluation”, Abidalrahman Moh’d and Yaser Jararweh Lo’ai Tawalbeh.
 9. “Ease of Side-Channel Attack on AES-192/256 by Targeting Extreme Keys”, Antonie Wurcker.
 10. “Side Channel Power Analysis of an AES-256 Bootloader”, Colin O’Flynn and Zhizing (David) Chen.
+11. "A Cost analysis of AES-128 and AES-512 on Apple mobile processors", Vatchara Saicheur and Krerk Piromsopa 

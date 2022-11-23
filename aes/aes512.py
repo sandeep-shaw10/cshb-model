@@ -164,7 +164,7 @@ if(__name__ == '__main__'):
     aes512 = AES()
 
     key = 'Thats my Kung Fu1234567876543210Thats my Kung Fu1234567876543210'
-    msg = 'Checking AES 512 on Python'
+    msg = '@'
     encode = '__all__'      # hex, b64 => base64, 0b => binary
 
     x = aes512.encrypt(key, msg, encode)
