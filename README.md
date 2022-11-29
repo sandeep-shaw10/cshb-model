@@ -31,11 +31,11 @@ jupyter notebook
 
 ## Project Report
 
-| Review | Date | Document | Slides |
-| --- | --- | --- | --- |
-| 1 | 5 May, 2022 | [Report I](./project/report-1.pdf) | [Slide I](./project/slide-1.pptx) |
-| 2 | 29 November, 2022 | --- | --- |
-| 3 | 2023 | --- | --- |
+| Review | Date | PDF | Slides | Document |
+| --- | --- | --- | --- | --- |
+| 1 | 5 May, 2022 | [Report I](./project/report-1.pdf) | [Slide I](./project/slide-1.pptx) | --- |
+| 2 | 29 November, 2022 | [Report II](./project/report-2.pdf) | [Slide II](./project/slide-2.pptx) | [Doc II](./project/report-2.docx) |
+| 3 | 2023 | --- | --- | --- |
 
 ## AES Algorithms (128/192/256/512)
 [![AES](https://github.com/sandeep-shaw10/py-aes/raw/master/resources/banner.png)](https://github.com/sandeep-shaw10/py-aes)
