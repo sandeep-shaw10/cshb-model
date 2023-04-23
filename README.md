@@ -14,6 +14,30 @@
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![gh-pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 
+
+## Project Report
+
+| Review | Date | PDF | Slides | Document |
+| --- | --- | --- | --- | --- |
+| 1 | 5 May, 2022 | [Report I](./project/report-1.pdf) | [Slide I](./project/slide-1.pptx) | --- |
+| 2 | 29 November, 2022 | [Report II](./project/report-2.pdf) | [Slide II](./project/slide-2.pptx) | [Doc II](./project/report-2.docx) |
+| 3 | 25 April, 2023 | [Final Report](./project/final.pdf) | [Final Slide](./project/final.pptx) | [Final Docx](./project/final.docx) |
+
+## AES Algorithms (128/192/256/512)
+[![AES](https://github.com/sandeep-shaw10/py-aes/raw/master/resources/banner.png)](https://github.com/sandeep-shaw10/py-aes)
+
+## Analysis
+
+| Name | Link |
+| --- | --- |
+| Key Schedule Timing | [View](./analysis/AES1-KeySchedule.ipynb) |
+| Key Schedule Variation | [View](./analysis/AES2-KeyVariation.ipynb) |
+| Encryption & Decrytion | [View](./analysis/AES3-EncryptTime.ipynb) |
+
+## AES Basics
+
+[![View](http://img.youtube.com/vi/K6gEFhsh34c/0.jpg)](https://youtu.be/K6gEFhsh34c)
+
 ## Set-Up
 
 Clone Project
@@ -40,26 +64,3 @@ Run Jupyter Notebook
 ```bash
 jupyter notebook
 ```
-
-## Project Report
-
-| Review | Date | PDF | Slides | Document |
-| --- | --- | --- | --- | --- |
-| 1 | 5 May, 2022 | [Report I](./project/report-1.pdf) | [Slide I](./project/slide-1.pptx) | --- |
-| 2 | 29 November, 2022 | [Report II](./project/report-2.pdf) | [Slide II](./project/slide-2.pptx) | [Doc II](./project/report-2.docx) |
-| 3 | 25 April, 2023 | [Final Report](./project/final.pdf) | [Final Slide](./project/final.pptx) | [Final Docx](./project/final.docx) |
-
-## AES Algorithms (128/192/256/512)
-[![AES](https://github.com/sandeep-shaw10/py-aes/raw/master/resources/banner.png)](https://github.com/sandeep-shaw10/py-aes)
-
-## Analysis
-
-| Name | Link |
-| --- | --- |
-| Key Schedule Timing | [View](./analysis/AES1-KeySchedule.ipynb) |
-| Key Schedule Variation | [View](./analysis/AES2-KeyVariation.ipynb) |
-| Encryption & Decrytion | [View](./analysis/AES3-EncryptTime.ipynb) |
-
-## AES Basics
-
-[![View](http://img.youtube.com/vi/K6gEFhsh34c/0.jpg)](https://youtu.be/K6gEFhsh34c)
