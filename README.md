@@ -64,3 +64,9 @@ Run Jupyter Notebook
 ```bash
 jupyter notebook
 ```
+
+# Team Members
+- [Sandeep Shaw](https://github.com/sandeep-shaw10)
+- [Arijit Mukherjee](https://github.com/arijit01gcect)
+- [Surajit Bera](https://github.com/surajit53)
+- [Akash Kumar Sen](https://github.com/Akash-Kumar-Sen)
